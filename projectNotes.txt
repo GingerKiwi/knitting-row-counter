@@ -1,0 +1,13 @@
+Project Notes
+===============
+
+To Do: 
+--------
+Put on GitHub
+Add to Git Projects
+Decide on flex vs grid
+Make accessible 
+Make responsive 
+Add total rows 
+Add counter for pattern repeats
+Write blog post -> include that I customized the project before watching the final module video.
